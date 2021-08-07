@@ -1,6 +1,6 @@
 # react-rock-paper-scissors
 
-Empty project.
+Rock-paper-scissors
 
 ## Building and running on localhost
 
